@@ -1,9 +1,12 @@
 {
   "name": "package-one",
-  "version": "0.1.0-rc.0",
+  "version": "0.1.0-rc.1",
   "main": "index.js",
   "license": "MIT",
   "scripts": {
     "test": "echo Hola mundo packageOne"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }

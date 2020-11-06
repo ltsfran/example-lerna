@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.1.0-rc.1](https://github.com/ltsfran/example-lerna/compare/package-one@0.1.0-alpha.11...package-one@0.1.0-rc.1) (2020-11-06)
+
+
+### Features
+
+* add text in packageOne ([19c6d08](https://github.com/ltsfran/example-lerna/commit/19c6d0896fe08879804f62724d53ad4db0071791))
+
+
+
+
+
 # 0.1.0-alpha.9 (2020-11-06)
 
 

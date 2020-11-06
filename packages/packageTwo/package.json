@@ -5,5 +5,8 @@
   "license": "MIT",
   "scripts": {
     "test": "echo Hola mundo packageTwo"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
