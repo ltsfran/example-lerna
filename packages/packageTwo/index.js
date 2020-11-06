@@ -1,4 +1,4 @@
 const packageOne = require('package-one');
 
 packageOne();
-console.log('packageTwo');
+console.log('packageTwo test');
