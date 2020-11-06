@@ -1,6 +1,6 @@
 {
   "name": "package-one",
-  "version": "0.1.0-rc.1",
+  "version": "0.1.0-rc.2",
   "main": "index.js",
   "license": "MIT",
   "scripts": {
