@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.1.0-beta.2](https://github.com/ltsfran/example-lerna/compare/package-two@0.1.0-beta.1...package-two@0.1.0-beta.2) (2020-11-06)
+
+
+### Features
+
+* remove text in packageTwo ([0d5d4d0](https://github.com/ltsfran/example-lerna/commit/0d5d4d07212cf7fa30cb38c1c986dc3ae053be3a))
+
+
+
+
+
 # [0.1.0-alpha.8](https://github.com/ltsfran/example-lerna/compare/v0.1.0-alpha.7...v0.1.0-alpha.8) (2020-11-06)
 
 
