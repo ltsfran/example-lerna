@@ -1,7 +1,7 @@
 {
   "command": {
     "version": {
-      "message": "chore: publish release %s"
+      "message": "chore: publish release"
     }
   },
   "packages": [
