@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.1.0-alpha.8](https://github.com/ltsfran/example-lerna/compare/v0.1.0-alpha.7...v0.1.0-alpha.8) (2020-11-06)
+
+
+### Features
+
+* add text in packageTwo ([f61e570](https://github.com/ltsfran/example-lerna/commit/f61e5702e3d2fa8c0edc3d8531c5e0524657b013))
+
+
+
+
+
 # [0.1.0-alpha.7](https://github.com/ltsfran/example-lerna/compare/v0.1.0-alpha.5...v0.1.0-alpha.7) (2020-11-06)
 
 **Note:** Version bump only for package root
