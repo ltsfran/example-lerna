@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.1.0-alpha.4](https://github.com/ltsfran/example-lerna/compare/v0.1.0-alpha.3...v0.1.0-alpha.4) (2020-11-06)
+
+
+### Features
+
+* add integration modules ([4ac33c3](https://github.com/ltsfran/example-lerna/commit/4ac33c3eb1a3432a5281bb61a868502ce87f5014))
+
+
+
+
+
 # 0.1.0-alpha.2 (2020-11-06)
 
 
