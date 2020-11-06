@@ -1,3 +1,3 @@
 module.exports = () => {
-    console.log('packageOne test');
+    console.log('packageOne');
 };
