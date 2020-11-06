@@ -1,1 +1,4 @@
-console.log('packageTwo test');
+const packageOne = require('package-one');
+
+packageOne();
+console.log('packageTwo');
