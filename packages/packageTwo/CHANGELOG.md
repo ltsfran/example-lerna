@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.1.0-beta.6](https://github.com/ltsfran/example-lerna/compare/@ltsfran/package-two@0.1.0-beta.5...@ltsfran/package-two@0.1.0-beta.6) (2020-11-06)
+
+
+### Features
+
+* remove function in packageTwo ([440284c](https://github.com/ltsfran/example-lerna/commit/440284cff224e69a524ca55c0fcf2528f0cc5db7))
+
+
+
+
+
 # [0.1.0-beta.5](https://github.com/ltsfran/example-lerna/compare/@ltsfran/package-two@0.1.0-beta.4...@ltsfran/package-two@0.1.0-beta.5) (2020-11-06)
 
 
